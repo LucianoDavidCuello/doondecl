@@ -1,0 +1,8 @@
+[
+	{"id":"t","id_button":"1","image":"http://doondeapp.com/mobile/images/categorias/promodesc.jpg", "title":"Ver todas","extra":"&promo=true", "icon":"http://doondeapp.com/mobile/images/categorias/promow.png"},
+	{"id":"207","id_button":"2","image":"http://doondeapp.com/mobile/images/categorias/alisado.jpg", "title":"Belleza y Salud","extra":"&promo=true","icon":"http://doondeapp.com/mobile/images/categorias/beauty_ic.png" },
+	{"id":"168","id_button":"3","image":"http://doondeapp.com/mobile/images/categorias/sushi.jpg", "title":"Sushi","extra":"&promo=true", "icon":"http://doondeapp.com/mobile/images/categorias/sushiw.png"},
+    {"id":"espectaculos","id_button":"7","image":"http://doondeapp.com/mobile/images/categorias/espe.jpg", "title":"Entretenimiento","extra":"&promo=true", "icon":"http://doondeapp.com/mobile/images/categorias/tea.png"},
+	{"id":"comida","id_button":"5","image":"http://doondeapp.com/mobile/images/categorias/comida.jpg", "title":"Comida","extra":" ", "icon":"http://doondeapp.com/mobile/images/categorias/comidaw.png"},
+    {"id":"23","id_button":"4","image":"http://doondeapp.com/mobile/images/categorias/motel.jpg", "title":"Motel","extra":"&promo=true", "icon":"http://doondeapp.com/mobile/images/categorias/motelw.png"}
+	]
